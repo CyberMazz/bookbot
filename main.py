@@ -2,7 +2,7 @@ from stats import count_words, count_letters, sort_on, count_and_sort_letters
 import sys
 
 if len(sys.argv) != 2:
-	print("Usage: python main.py <path_to_book>")
+	print("Usage: python3 main.py <path_to_book>")
 	sys.exit(1)
 book = sys.argv[1]
 
