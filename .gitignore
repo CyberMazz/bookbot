@@ -1,2 +1,3 @@
 #ignore the books directory
 /books
+game_state.jsonl
